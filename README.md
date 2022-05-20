@@ -2,7 +2,7 @@
 #### I am computer engineering
 ![I am computer engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Hasan from Türkey, and I am a computer engineering student. My interests in Python and React. I'm developing. I am open to learning.
+I'm Hasan from Turkey, and I am a computer engineering student. My interests in Python and React. I'm developing.
 
 Skills: Python/ REACT / JS / HTML / CSS / C#
 
