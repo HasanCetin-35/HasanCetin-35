@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Hasan
 #### I am computer engineering
-![I am computer engineering]
 
-I'm Hasan from Turkey, and I am a computer engineering student. My interests in Python and React. I'm developing.
 
-Skills: Python/ REACT / JS / HTML / CSS / C#
+I'm Hasan from Turkey, and I am a computer engineering student. My interests in JavaScript and Angular. I'm developing.
+
+Skills: Python/ REACT / JS / HTML / CSS / C# / Angular / JavaScript
 
 - 🌱 I’m currently learning React and Python 
 
