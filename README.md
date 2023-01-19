@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hasan
 #### I am computer engineering
-![I am computer engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am computer engineering]
 
 I'm Hasan from Turkey, and I am a computer engineering student. My interests in Python and React. I'm developing.
 
